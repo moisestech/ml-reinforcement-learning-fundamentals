@@ -1,10 +1,9 @@
-[//]: # (Image References)
-
+[//]: # "Image References"
 [image1]: https://user-images.githubusercontent.com/10624937/42135605-ba0e5f2c-7d12-11e8-9578-86d74e0976f8.gif "Trained Agent"
 
 # Discretization
 
-### Instructions
+## Instructions
 
 Follow the instructions in `Discretization.ipynb` to learn how to discretize continuous state spaces, to use tabular solution methods to solve complex tasks. The corresponding solutions can be found in `Discretization_Solution.ipynb`.
 
